@@ -1,8 +1,8 @@
 
 Used Technologies:
 
-# Spring Framework
-# Spring Data JPA(Hibernate)
-# Spring MVC
-# PostgreSQL
-# Swagger
+- Spring Framework
+- Spring Data JPA(Hibernate)
+- Spring MVC
+- PostgreSQL
+- Swagger
